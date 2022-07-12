@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CALCULATOR</string>
+    <string-array name="operators">
+        <item>Addition</item>//0
+        <item>Subtraction</item>//1
+        <item>Multiplication</item>//2
+        <item>Division</item>//3
+        <item>Remainder</item>//4
+    </string-array>
+</resources>
